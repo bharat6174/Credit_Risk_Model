@@ -11,3 +11,6 @@ To predicting the probability that somebody will experience financial distress(s
 3. Developed a credit risk prediction model using theXGBoost Classifier on the cleaned dataset, predicted the values, and achieved an **accuracy of _~94.6%_**.
 4. Evaluation of the model was done using **_confusion matrix_** and classification report (precision, recall, F1-score), and **AUC Score**.
 * This project demonstrates applied ML for real-world credit scoring and credit risk prediction.
+
+## Conclusion
+A powerful model is created with high accuracy and **AUC score of 0.8767**.
