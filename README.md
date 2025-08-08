@@ -13,4 +13,4 @@ To predicting the probability that somebody will experience financial distress(s
 * This project demonstrates applied ML for real-world credit scoring and credit risk prediction.
 
 ## Conclusion
-A powerful model is created with high accuracy and **AUC score of 0.8767**.
+A powerful model is created with high accuracy and **AUC score of 0.9053**.
